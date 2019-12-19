@@ -1,1 +1,1 @@
-"#fullstack @ cs.helsinki.fi osa 1" 
+#fullstack @ cs.helsinki.fi osa 1
