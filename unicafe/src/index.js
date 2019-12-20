@@ -8,9 +8,7 @@ const Button = props => (
 )
 
 const Header = props => (
-        <div>
-            <h1>{props.text}</h1>
-        </div>
+        <h1>{props.text}</h1>
 )
 
 const Statistic = props => (
